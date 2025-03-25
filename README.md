@@ -1,10 +1,9 @@
 # 💫 About Me:  
-**I’m currently working on**: graduating in Computer Engineering and looking for summer jobs in tech<br>  
-**I’m looking to collaborate on**: any kind of projects or hackathons<br>  
+**I’m currently working on**: graduating in Computer Engineering, looking for summer jobs in tech and begin my journey on research<br>  
+**I’m looking to collaborate on**: AI related projects or hackathons<br>  
 **I’m looking for help with**: developing my career and creating new connections<br>  
-**I’m currently learning**: IoT for automating tool maintenance analysis<br>  
-**Ask me about**: projects and experiences I've had, I love sharing my learnings and empowering those around me<br>  
-**Fun fact**: I love challenges and enjoy solving SBC problems as a hobby...
+**I’m currently learning**: A personal Deep Learning Research<br>  
+**Ask me about**: projects and experiences I've had, I love sharing my learnings and empowering those around me<br>
 
 
 ## 🌐 Socials:
