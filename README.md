@@ -38,14 +38,11 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
         <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     </a>
-    <a href="https://www.hivemq.com/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/HiveMQ-FFCA28?style=for-the-badge&logo=hivemq&logoColor=black" alt="HiveMQ">
+    <a href="https://www.java.com/pt-BR/" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
     </a>
     <a href="https://www.postgresql.org/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-    </a>
-    <a href="https://www.prisma.io/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
     </a>
     <a href="https://www.mysql.com/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
